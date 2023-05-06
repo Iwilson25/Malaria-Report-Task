@@ -16,7 +16,9 @@ Globally, Malaria remains a major public health concern in many parts of the wor
 
 ### Dataset
 **Dataset** 
+
 |No.|Dataset|Description|
+|---|---|---|
 |1.|TOTAL_CASES|Number of malaria cases|
 |2.|EST_INCIDENCE|Estimated malaria incidence (per 1000 population at risk)|
 |3.|EST_MORTALITY|Estimated malaria mortality rate (per 100,000 population)|
