@@ -15,7 +15,6 @@ Globally, Malaria remains a major public health concern in many parts of the wor
 - [Conclusion](#Conclusion)
 
 ### Dataset
-**Dataset** 
 
 |No.|Dataset|Description|
 |---|---|---|
