@@ -14,7 +14,7 @@ Globally, Malaria remains a major public health concern in many parts of the wor
 - [Findings](#Findings)
 - [Conclusion](#Conclusion)
 
-### Dataset
+### Dataset/Tableau Analysis
 
 |No.|Dataset|Description|
 |---|---|---|
@@ -23,6 +23,7 @@ Globally, Malaria remains a major public health concern in many parts of the wor
 |3.|EST_MORTALITY|Estimated malaria mortality rate (per 100,000 population)|
 |5.|ITN_COVERAGE|Population with access to an insecticide-treated bed net (ITN) for malaria protection (%)|
 
+Tableau link - [Tableau link](https://public.tableau.com/views/Malaria_16833652702750/TotalCasesMap?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Findings
 Finding 1 – African region has the highest number of Malaria cases
